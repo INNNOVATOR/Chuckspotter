@@ -12,3 +12,11 @@ Solution:
 
 	We present a technology and method for an in- game assessment using a wearable arm sensor for differentiating between a legal bowling action and throwing. The method uses inertial sensors on the upper and lower arm with Intel Edison that identifies the multiple data patterns, with these data patterns we updating these data to cloud database in which it helps identify the bowling action. By identifying Suspect deliveries, as assessed by an expert biomechanist using high speed video and motion capture reveal valid distinctive inertial signatures. The technology is an important step in the monitoring of bowling action on-field in near real-time. The technology is suitable for use in competition as well as a training tool for developing athletes.
 	
+Hardware:
+
+Linkit ONE development Board-		1
+Accelerometer -				2
+
+
+
+
